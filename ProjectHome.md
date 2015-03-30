@@ -1,0 +1,1 @@
+MPD client write in Python designed to be fully accessible by visually impaired.
